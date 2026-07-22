@@ -12,3 +12,6 @@ export const TitleH2 = styled.div`
 font-size: 30px;
     font-weight: 600;
 `
+export const Button = styled.button`
+    text-transform: capitalize;
+`
